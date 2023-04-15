@@ -3,7 +3,7 @@
 # project--documentation
 
 <p align="center">
-  <a href="https://auasim.github.io/Personal-Blog/" rel="noopener">
+  <a href="https://auasim.github.io/Movie-App/" rel="noopener">
  <img width=500px height=200px src="Portfolio.png" alt="Project logo">
   <p>click the image to see the portfolio UI</p></a>
 
@@ -28,16 +28,9 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-A personal portfolio is a collection of your professional or creative work, accomplishments, skills, and experiences that you use to showcase your abilities and promote yourself to potential employers, clients, or collaborators. It can include a range of materials, such as writing samples, design projects, photographs, videos, code samples, certificates, awards, and testimonials.
+A movie app is a mobile application that allows users to search for, discover, and watch movies on their smartphones or tablets. These apps typically provide a user-friendly interface that makes it easy to browse through a vast library of movies, filter by genre, rating, or release date, and find the perfect movie to watch.
 
-Having a well-designed and organized personal portfolio can help you stand out from other candidates and demonstrate your competence and creativity. It can also serve as a record of your progress and growth over time, as you add new projects and skills to your portfolio.
-
-When creating a personal portfolio, it's important to consider your target audience and their interests and needs, and to select your best and most relevant work to showcase. You should also provide context and explanations for each item in your portfolio, highlighting the skills and expertise you used to complete each project.
-
-There are various platforms and tools available for creating and hosting a personal portfolio, including website builders, social media platforms, and specialized portfolio platforms. It's important to choose a platform that fits your needs and goals, and to keep your portfolio updated and relevant as you continue to develop your skills and experiences
-
-## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Some movie apps also offer additional features such as movie reviews, recommendations, and trailers, as well as the ability to create a personalized watchlist and keep track of what you've watched. Some popular examples of movie apps include Netflix, Hulu, Disney+, Amazon Prime Video, and IMDb.
 
 ### Prerequisites
 What things you need to install the software and how to install them.
@@ -89,7 +82,6 @@ Add additional notes about how to deploy this on a live system.
 - [HTML]
 - [CSS]
 - [JavaScript]
-- [ScrollReveal]
 
 
 
